@@ -1,0 +1,14 @@
+El siguiente programa fue desarrollado solo con fines academicos,
+su venta esta prohibida y solo se busca presentar el proyecto.
+
+
+Contenido:
+manual de usuario
+programa
+reamde
+licencia de uso
+bitacora
+
+Universidad Autónoma Metropolinata
+Ciudad de México
+18/11/2020
